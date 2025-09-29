@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhheHNsbHM5cWpmaG90Z29lOWMxcmQ3Nm56Z2l1cmZ0NGxjN21tYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhheHNsbHM5cWpmaG90Z29lOWMxcmQ3Nm56Z2l1cmZ0NGxjN21tYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -68,10 +68,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tenebroon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="120" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Tenebroon&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tenebroon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tenebroon&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tenebroon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Tenebroon&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tenebroon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
