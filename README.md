@@ -1,78 +1,79 @@
-<h1 align="center">Hi 👋🏼, I'm Tenebroon</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Tenebroon&fontSize=30&fontColor=000000&fontAlign=50&fontAlignY=92&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<h4 align="center">-- A Code Newbie 👊🏼 --</h4>
+<img align="right" height="242" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhheHNsbHM5cWpmaG90Z29lOWMxcmQ3Nm56Z2l1cmZ0NGxjN21tYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
-<h2 align="center"></h2>
-
-###
-
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhheHNsbHM5cWpmaG90Z29lOWMxcmQ3Nm56Z2l1cmZ0NGxjN21tYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-<h4 align="left">📚 Recently learned</h4>
+<p align="left">-- Recently Learned --</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 </div>
 
 ###
 
-<h4 align="left">📖 Currently learning</h4>
+<p align="left">-- Currently Learning --</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
 ###
 
-<h2 align="left"></h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
 
 ###
 
-<h5 align="left">📫 Connect with me</h5>
+<p align="left">-- Connect with Me --</p>
 
 ###
 
 <div align="left">
   <a href="https://t.me/Tenebroon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="20" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
   <a href="https://chat.google.com/room/AAQANQPw8wE?cls=7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h2 align="left"></h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tenebroon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Tenebroon&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tenebroon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tenebroon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tenebroon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
