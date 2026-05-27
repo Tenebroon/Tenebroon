@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">-- Connect with Me --</p>
+<p align="left">-- Contact with Me --</p>
 
 ###
 
